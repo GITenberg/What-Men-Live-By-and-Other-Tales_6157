@@ -1,0 +1,66 @@
+_repo: What-Men-Live-By-and-Other-Tales_6157
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Maude, Louise
+    aliases:
+    - Shanks, Louise
+    - Maude, Louise Shanks
+    birthdate: 1855
+    deathdate: 1939
+    gutenberg_agent_id: '500'
+    url: http://www.gutenberg.org/2009/agents/500
+    wikipedia: http://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+  - agent_name: Maude, Aylmer
+    birthdate: 1858
+    deathdate: 1938
+    gutenberg_agent_id: '4589'
+    url: http://www.gutenberg.org/2009/agents/4589
+    wikipedia: http://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Lev N.
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    - Толстой, Лев Николаевич
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: "\"How Much Land Does a Man Require?\" (Russian: Много ли человеку земли\
+  \ нужно?, Mnogo li cheloveku zemli nuzhno?) is an 1886 short story by Leo Tolstoy\
+  \ about a man who, in his lust for land, forfeits everything.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6157'
+  wikidata: Q1269280
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peasants -- Russia -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Russia -- Fiction'
+- GITenberg
+tableOfContents: What men live by -- Three questions -- The coffee-house of Surat
+  -- How much land does a man need?
+title: What Men Live By, and Other Tales
+url: http://www.gutenberg.org/ebooks/6157
+wikipedia:
+- https://fr.wikipedia.org/wiki/Ce_qu%27il_faut_de_Terre_%C3%A0_l%27Homme
+- https://ar.wikipedia.org/wiki/%D9%83%D9%85_%D9%8A%D8%AD%D8%AA%D8%A7%D8%AC_%D8%A7%D9%84%D8%B1%D8%AC%D9%84_%D9%85%D9%86_%D9%81%D8%AF%D8%A7%D9%86%D8%9F
+- https://eu.wikipedia.org/wiki/Zenbat_lur_behar_ditu_gizon_batek%3F
+- https://de.wikipedia.org/wiki/Wieviel_Erde_braucht_der_Mensch%3F
+- https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%AE%E0%A5%80_%E0%A4%95%E0%A5%8B_%E0%A4%95%E0%A4%BF%E0%A4%A4%E0%A4%A8%E0%A5%80_%E0%A4%9C%E0%A4%BC%E0%A4%AE%E0%A5%80%E0%A4%A8_%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F%3F
+- https://pl.wikipedia.org/wiki/Czy_du%C5%BCo_cz%C5%82owiekowi_trzeba_ziemi%3F
+- https://en.wikipedia.org/wiki/How_Much_Land_Does_a_Man_Need%3F
+- https://it.wikipedia.org/wiki/Se_di_molta_terra_abbia_bisogno_un_uomo
+- https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BB%D0%B8_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D1%83_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8_%D0%BD%D1%83%D0%B6%D0%BD%D0%BE
+- https://ro.wikipedia.org/wiki/De_c%C3%A2t_p%C4%83m%C3%A2nt_are_nevoie_un_om%3F
+- https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A9%B0%E0%A8%A6%E0%A9%87_%E0%A8%A8%E0%A9%82%E0%A9%B0_%E0%A8%95%E0%A8%BF%E0%A9%B0%E0%A8%A8%E0%A9%80_%E0%A8%9C%E0%A8%BC%E0%A8%AE%E0%A9%80%E0%A8%A8_%E0%A8%A6%E0%A9%80_%E0%A8%B2%E0%A9%8B%E0%A9%9C_%3F
