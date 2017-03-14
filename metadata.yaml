@@ -1,5 +1,5 @@
 _repo: What-Men-Live-By-and-Other-Tales_6157
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Maude, Louise
@@ -17,6 +17,9 @@ contributor:
     gutenberg_agent_id: '4589'
     url: http://www.gutenberg.org/2009/agents/4589
     wikipedia: http://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -34,6 +37,8 @@ description: "\"How Much Land Does a Man Require?\" (Russian: Много ли ч
   \ нужно?, Mnogo li cheloveku zemli nuzhno?) is an 1886 short story by Leo Tolstoy\
   \ about a man who, in his lust for land, forfeits everything.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6157#What-Men-Live-By-and-Other-Tales
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
